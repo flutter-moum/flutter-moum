@@ -15,7 +15,7 @@ Flutter Moum group is releasing and maintaining flutter plugins in one place
 
 <br><br>
 -----
-# Flutter Moum Plugins Example App
+# Example App
 
 If you see all plugin examples, download this repository to run flutter moum plugin examples. 
 You can see all plugins example easily with this app.
