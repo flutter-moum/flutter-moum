@@ -1,0 +1,58 @@
+PODS:
+  - airplane_mode_detection (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - hardware_buttons (0.0.1):
+    - Flutter
+  - open_appstore (0.0.1):
+    - Flutter
+  - permission_handler (3.2.2):
+    - Flutter
+  - screenshot_callback (0.0.1):
+    - Flutter
+  - sim_info (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - airplane_mode_detection (from `.symlinks/plugins/airplane_mode_detection/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - hardware_buttons (from `.symlinks/plugins/hardware_buttons/ios`)
+  - open_appstore (from `.symlinks/plugins/open_appstore/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - screenshot_callback (from `.symlinks/plugins/screenshot_callback/ios`)
+  - sim_info (from `.symlinks/plugins/sim_info/ios`)
+
+EXTERNAL SOURCES:
+  airplane_mode_detection:
+    :path: ".symlinks/plugins/airplane_mode_detection/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  hardware_buttons:
+    :path: ".symlinks/plugins/hardware_buttons/ios"
+  open_appstore:
+    :path: ".symlinks/plugins/open_appstore/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  screenshot_callback:
+    :path: ".symlinks/plugins/screenshot_callback/ios"
+  sim_info:
+    :path: ".symlinks/plugins/sim_info/ios"
+
+SPEC CHECKSUMS:
+  airplane_mode_detection: f38e13bc7a6d5d1ff7d8b87c93060625bf89e394
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  hardware_buttons: 014f502132c734dc391a47e2b708728b1dd8bf32
+  open_appstore: 4eddfae38848002fdde8d42e1734d16cb34439de
+  permission_handler: d59f41439f5bc6c4d1005f3355e98f05ddc68ece
+  screenshot_callback: dcbd6a3d715947a44ed20c114172bcdfcd577e42
+  sim_info: 9d8750399533a8eb626fbb7f6fc0776b154de2a6
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.7.5
