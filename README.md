@@ -24,8 +24,8 @@ You can see all plugins example easily with this app.
 -----
 # Create a Flutter Plugin 
 
-If you want to know how to create flutter plugin, please check this link
-https://github.com/flutter-moum/flutter-moum/wiki#flutter-plugin-%EB%A7%8C%EB%93%A4%EA%B8%B0 
+If you want to know how to create flutter plugin, please check this link.<br>
+[Create a Flutter Plugin](https://github.com/flutter-moum/flutter-moum/wiki#flutter-plugin-%EB%A7%8C%EB%93%A4%EA%B8%B)
 this link contains manual for plugin written by flutter moum members (only korean)
 
 If you want to join us, you are welcome to send an email! songyi0207@gmail.com
