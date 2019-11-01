@@ -19,3 +19,13 @@ Flutter Moum group is releasing and maintaining flutter plugins in one place
 
 If you see all plugin examples, download this repository to run flutter moum plugin examples. 
 You can see all plugins example easily with this app.
+
+<br><br>
+-----
+# Create a Flutter Plugin 
+
+If you want to know how to create flutter plugin, please check this link
+https://github.com/flutter-moum/flutter-moum/wiki#flutter-plugin-%EB%A7%8C%EB%93%A4%EA%B8%B0 
+this link contains manual for plugin written by flutter moum members (only korean)
+
+If you want to join us, you are welcome to send an email! songyi0207@gmail.com
