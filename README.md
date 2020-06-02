@@ -1,5 +1,11 @@
-# flutter-moum
-Flutter Moum group is releasing and maintaining flutter plugins in one place
+# Flutter Moum
+Flutter를 좋아하는 사람들이 모여 Flutter 관련한 지식과 기술을 모으는 장소입니다.
+
+오픈소스 컨트리뷰톤 활동과 함께 관리됩니다. [참여해보세요](https://www.oss.kr/contributhon)!!!
+
+## [2019 오픈소스 컨트리뷰톤](https://www.oss.kr/notice/show/ee15de47-7adc-48a5-b4bc-039ba04192af)
+
+2019년 컨트리뷰톤은 안드로이드, 아이폰 개발자들이 모여 Flutter를 같이 공부해나가며 아직 귀엽디 귀여운 Flutter 생태계에 도움이 되는 여러 플러그인들을 만들었습니다. 배운 내용을 토대로 [위키](https://github.com/flutter-moum/flutter-moum/wiki/Flutter-Plugin-%EB%A7%8C%EB%93%A4%EA%B8%B0)도 정리했습니다.
 
 | Name | Release | Description | Maintainer |
 | --- | --- | --- | --- |
@@ -13,19 +19,6 @@ Flutter Moum group is releasing and maintaining flutter plugins in one place
 | [**sim_info**](https://github.com/flutter-moum/flutter_sim_info) | [![Pub](https://img.shields.io/pub/v/sim_info.svg)](https://pub.dev/packages/sim_info) | A Flutter plugin for read SIM information. You can get SIM data for MCC, MNC, country code, etc There are similarities and differences between the data available on Android and iOS. Read the usage. | [Eungi Kim](https://github.com/eungikimme), [You kwangwoo](https://github.com/YKW93), [Junyeong cho](https://github.com/junyng)
 | [**flutter_airplane_mode_detection**](https://github.com/flutter-moum/flutter_airplane_mode_detection) | [![Pub](https://img.shields.io/pub/v/airplane_mode_detection.svg)](https://pub.dev/packages/airplane_mode_detection) | Flutter plugin that allows you to detect and check mobile airplane mode callback functions on iOS and Android. | [moonyoung](https://github.com/moonyoungCHAE), [Chokyungjin](https://github.com/chokyungjin)
 
-<br><br>
------
-# Example App
+## [2020 오픈소스 컨트리뷰톤](https://www.oss.kr/notice/show/18f215a2-a650-4c46-aaab-b4cf7d41484e)
 
-If you see all plugin examples, download this repository to run flutter moum plugin examples. 
-You can see all plugins example easily with this app.
-
-<br><br>
------
-# Create a Flutter Plugin 
-
-If you want to know how to create flutter plugin, please check this link.<br>
-[Create a Flutter Plugin](https://github.com/flutter-moum/flutter-moum/wiki#flutter-plugin-%EB%A7%8C%EB%93%A4%EA%B8%B)
-this link contains manual for plugin written by flutter moum members (only korean)
-
-If you want to join us, you are welcome to send an email! songyi0207@gmail.com
+2020년 컨트리뷰톤은 무섭게 성장하고있는 Flutter에 직접 기여할 수 있는 기회를 가져보게 됩니다! TBD!!
