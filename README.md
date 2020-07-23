@@ -21,4 +21,18 @@ Flutter를 좋아하는 사람들이 모여 Flutter 관련한 지식과 기술�
 
 ## [2020 오픈소스 컨트리뷰톤](https://www.oss.kr/notice/show/18f215a2-a650-4c46-aaab-b4cf7d41484e)
 
-2020년 컨트리뷰톤은 무섭게 성장하고있는 Flutter에 직접 기여할 수 있는 기회를 가져보게 됩니다! TBD!!
+2020년 컨트리뷰톤은 무섭게 성장하고있는 Flutter에 직접 기여할 수 있는 기회를 가져보게 됩니다.
+
+Open: <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+Closed: <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
+Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+
+**이한솔(멘토)**
+- [Have _warpToCurrentIndex() shortcut logic behave properly](https://github.com/flutter/flutter/pull/57574) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Error message when size has not been set in RenderBox's performLayout should be well versed](https://github.com/flutter/flutter/pull/58151) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Have TabBar indicator properly follow tabController animation value](https://github.com/flutter/flutter/pull/57799) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
+- [Add sample code to PositionedTransition](https://github.com/flutter/flutter/pull/59156) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Make TabController animateTo() method work as expected](https://github.com/flutter/flutter/pull/60080) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+
+**유송이(멘토)**
+- [Add LayoutBuilder example](https://github.com/flutter/flutter/pull/61948) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
