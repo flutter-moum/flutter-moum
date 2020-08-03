@@ -51,6 +51,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 
 **이주영**
 - [Update systemNavigationBarIconBrightness docs](https://github.com/flutter/flutter/pull/62729) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Fix animation listener docs](https://github.com/flutter/flutter/pull/62728) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이찬호**
 
