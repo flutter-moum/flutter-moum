@@ -54,6 +54,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Fix animation listener docs](https://github.com/flutter/flutter/pull/62728) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 
 **이찬호**
+- [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이해석**
 - [Fixed a problem, the vertical drag was not recognized when the child of GestureDetector is ScrollView](https://github.com/flutter/flutter/pull/63179) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
