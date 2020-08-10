@@ -52,6 +52,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 **이주영**
 - [Update systemNavigationBarIconBrightness docs](https://github.com/flutter/flutter/pull/62729) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Fix animation listener docs](https://github.com/flutter/flutter/pull/62728) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
+- [Remove enableR8=true from gradle.properties](https://github.com/flutter/flutter/pull/63339) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이찬호**
 - [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
