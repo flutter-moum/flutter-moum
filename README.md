@@ -40,6 +40,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 **김나연**
 
 **김난**
+- [SizeTransition sample code](https://github.com/flutter/flutter/pull/63833) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **민경운**
 
