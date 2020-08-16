@@ -70,4 +70,4 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 **정세희**
 
 **최아현**
-- [Add sample code for ScaleTransition])https://github.com/flutter/flutter/pull/63886) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add sample code for ScaleTransition](https://github.com/flutter/flutter/pull/63886) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
