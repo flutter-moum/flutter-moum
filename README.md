@@ -50,6 +50,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 
 **손영인**
 - [Update: Documentation for ListView constructor should warn about changing widget list](https://github.com/flutter/flutter/pull/63503) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [feat: Text constructor, overflow, and softWrap docs](https://github.com/flutter/flutter/pull/64175) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **신영환**
 
