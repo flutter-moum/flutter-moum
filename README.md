@@ -45,6 +45,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [SizeTransition sample code](https://github.com/flutter/flutter/pull/63833) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **민경운**
+- [[61154] Fixed : Change the default width & height in dialog](https://github.com/flutter/flutter/pull/64460) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **박원희**
 - [DecoratedBoxTransition sample code](https://github.com/flutter/flutter/pull/63775) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
@@ -62,6 +63,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Remove enableR8=true from gradle.properties](https://github.com/flutter/flutter/pull/63339) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Improve Stepper controlsBuilder docs](https://github.com/flutter/flutter/pull/63910) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 - [Improve error message when Navigator.pop() is called accidentally](https://github.com/flutter/flutter/pull/64409) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Fix CupertinoAlertDialog TextStyle](https://github.com/flutter/flutter/pull/64468) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이찬호**
 - [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
