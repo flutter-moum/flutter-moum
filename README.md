@@ -43,7 +43,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Add sample code to DefaultTextStyleTransition](https://github.com/flutter/flutter/pull/64638) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **김난**
-- [SizeTransition sample code](https://github.com/flutter/flutter/pull/63833) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [SizeTransition sample code](https://github.com/flutter/flutter/pull/63833) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 
 **민경운**
 - [[61154] Fixed : Change the default width & height in dialog](https://github.com/flutter/flutter/pull/64460) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
