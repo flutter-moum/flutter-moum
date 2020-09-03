@@ -56,6 +56,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 **손영인**
 - [Update: Documentation for ListView constructor should warn about changing widget list](https://github.com/flutter/flutter/pull/63503) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [feat: Text constructor, overflow, and softWrap docs](https://github.com/flutter/flutter/pull/64175) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Documentation for InputDecoration gives accent to wrong words 이슈 제보](https://github.com/flutter/flutter/issues/65034)
 
 **신영환**
 - [Update Visibility docs on maintainSize](https://github.com/flutter/flutter/pull/64148) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
@@ -74,6 +75,8 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 **이찬호**
 - [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 - [[ReorderableListView] Fix item dropping animation](https://github.com/flutter/flutter/pull/64140) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [[SwitchListTile.adaptive] Remove splash effect on iOS and macOS](https://github.com/flutter/flutter/pull/65081) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [[ReorderableListView] remove extra margin added after picking up the item](https://github.com/flutter/flutter/pull/65080) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이해석**
 - [Fixed a problem, the vertical drag was not recognized when the child of GestureDetector is ScrollView](https://github.com/flutter/flutter/pull/63179) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
@@ -82,6 +85,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [InkWell for CustomPainter widget 해결방안 제시](https://github.com/flutter/flutter/issues/60143#issuecomment-674541259)
 - [showDatePicker ignore my Theme and my Locale 해결방안 제시](https://github.com/flutter/flutter/issues/58493#issuecomment-680073814)
 - [Fixes issue, ReorderableListView destroys children even if their key-type wasn't changed](https://github.com/flutter/flutter/pull/64855) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add dart-pad example code for CupertinoSliverRefreshControl](https://github.com/flutter/flutter/pull/65164) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **임현호**
 - [Remove back button when using end drawer](https://github.com/flutter/flutter/pull/63272) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
