@@ -60,6 +60,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 
 **신영환**
 - [Update Visibility docs on maintainSize](https://github.com/flutter/flutter/pull/64148) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Apply darkmode style](https://github.com/flutter/flutter/pull/65182) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이주영**
 - [Update systemNavigationBarIconBrightness docs](https://github.com/flutter/flutter/pull/62729) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
