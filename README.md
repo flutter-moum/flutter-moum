@@ -33,7 +33,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Have TabBar indicator properly follow tabController animation value](https://github.com/flutter/flutter/pull/57799) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 - [Add sample code to PositionedTransition](https://github.com/flutter/flutter/pull/59156) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Make TabController animateTo() method work as expected](https://github.com/flutter/flutter/pull/60080) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
-- [Fix TabBar jag when user interrupts ballistic scroll](https://github.com/flutter/flutter/pull/64380) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Fix TabBar jag when user interrupts ballistic scroll](https://github.com/flutter/flutter/pull/64380) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 
 **유송이(멘토)**
 - [Add LayoutBuilder example](https://github.com/flutter/flutter/pull/61948) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
