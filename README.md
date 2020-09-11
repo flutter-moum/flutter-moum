@@ -41,6 +41,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 **김나연**
 - [Add sample code to RelativePositionedTransition](https://github.com/flutter/flutter/pull/63940) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Add sample code to DefaultTextStyleTransition](https://github.com/flutter/flutter/pull/64638) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add sample code to Offstage](https://github.com/flutter/flutter/pull/65550) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **김난**
 - [SizeTransition sample code](https://github.com/flutter/flutter/pull/63833) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
@@ -74,6 +75,10 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Wrap PopupMenu with SafeArea to respect status bar](https://github.com/flutter/flutter/pull/64678) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 - [Update MergeableMaterial's default color to CardTheme.color](https://github.com/flutter/flutter/pull/65031) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 - [Update hintColor value for Material](https://github.com/flutter/flutter/pull/65036) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Add new book](https://github.com/flutter/website/pull/4409) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Update Xcode screenshot](https://github.com/flutter/website/pull/4410) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Fix book list in alphabetical order](https://github.com/flutter/website/pull/4414) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Fix broken link in firebase.md](https://github.com/flutter/website/pull/4514) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 
 **이찬호**
 - [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
