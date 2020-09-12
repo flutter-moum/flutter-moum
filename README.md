@@ -69,7 +69,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Update systemNavigationBarIconBrightness docs](https://github.com/flutter/flutter/pull/62729) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Fix animation listener docs](https://github.com/flutter/flutter/pull/62728) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 - [Remove enableR8=true from gradle.properties](https://github.com/flutter/flutter/pull/63339) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
-- [Improve Stepper controlsBuilder docs](https://github.com/flutter/flutter/pull/63910) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Improve Stepper controlsBuilder docs](https://github.com/flutter/flutter/pull/63910) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Improve error message when Navigator.pop() is called accidentally](https://github.com/flutter/flutter/pull/64409) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 - [Fix CupertinoAlertDialog TextStyle](https://github.com/flutter/flutter/pull/64468) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 - [Wrap PopupMenu with SafeArea to respect status bar](https://github.com/flutter/flutter/pull/64678) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
@@ -79,6 +79,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Update Xcode screenshot](https://github.com/flutter/website/pull/4410) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Fix book list in alphabetical order](https://github.com/flutter/website/pull/4414) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Fix broken link in firebase.md](https://github.com/flutter/website/pull/4514) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
+- [Update Japanese localization of CupertinoDatePicker](https://github.com/flutter/flutter/pull/65645) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **이찬호**
 - [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
