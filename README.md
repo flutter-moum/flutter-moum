@@ -96,6 +96,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [showDatePicker ignore my Theme and my Locale 해결방안 제시](https://github.com/flutter/flutter/issues/58493#issuecomment-680073814)
 - [Fixes issue, ReorderableListView destroys children even if their key-type wasn't changed](https://github.com/flutter/flutter/pull/64855) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Add dart-pad example code for CupertinoSliverRefreshControl](https://github.com/flutter/flutter/pull/65164) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add borderRadius to Table widget 해결방안 ](https://github.com/flutter/flutter/issues/58486#issuecomment-668125958)
 
 **임현호**
 - [Remove back button when using end drawer](https://github.com/flutter/flutter/pull/63272) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
