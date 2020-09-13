@@ -103,7 +103,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [FloatingActionButton always keeps the same position when FloatingActionButtonLocation is top.](https://github.com/flutter/flutter/pull/64746) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **정세희**
-- [Add sample code to FadeTransition](https://github.com/flutter/flutter/pull/64240) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add sample code to FadeTransition](https://github.com/flutter/flutter/pull/64240) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [fix text.dart documentation](https://github.com/flutter/flutter/pull/65185) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 
 **최아현**
