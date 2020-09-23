@@ -29,7 +29,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 
 **김나연**
 - [Add sample code to RelativePositionedTransition](https://github.com/flutter/flutter/pull/63940) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
-- [Add sample code to DefaultTextStyleTransition](https://github.com/flutter/flutter/pull/64638) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add sample code to DefaultTextStyleTransition](https://github.com/flutter/flutter/pull/64638) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Add sample code to Offstage](https://github.com/flutter/flutter/pull/65550) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 
 **김난**
@@ -60,7 +60,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Remove enableR8=true from gradle.properties](https://github.com/flutter/flutter/pull/63339) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Improve Stepper controlsBuilder docs](https://github.com/flutter/flutter/pull/63910) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Improve error message when Navigator.pop() is called accidentally](https://github.com/flutter/flutter/pull/64409) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
-- [Fix CupertinoAlertDialog TextStyle](https://github.com/flutter/flutter/pull/64468) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Fix CupertinoAlertDialog TextStyle](https://github.com/flutter/flutter/pull/64468) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Wrap PopupMenu with SafeArea to respect status bar](https://github.com/flutter/flutter/pull/64678) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 - [Update MergeableMaterial's default color to CardTheme.color](https://github.com/flutter/flutter/pull/65031) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 - [Update hintColor value for Material](https://github.com/flutter/flutter/pull/65036) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
@@ -84,7 +84,7 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [InkWell for CustomPainter widget 해결방안 제시](https://github.com/flutter/flutter/issues/60143#issuecomment-674541259)
 - [showDatePicker ignore my Theme and my Locale 해결방안 제시](https://github.com/flutter/flutter/issues/58493#issuecomment-680073814)
 - [Fixes issue, ReorderableListView destroys children even if their key-type wasn't changed](https://github.com/flutter/flutter/pull/64855) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
-- [Add dart-pad example code for CupertinoSliverRefreshControl](https://github.com/flutter/flutter/pull/65164) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Add dart-pad example code for CupertinoSliverRefreshControl](https://github.com/flutter/flutter/pull/65164) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Add borderRadius to Table widget 해결방안 ](https://github.com/flutter/flutter/issues/58486#issuecomment-668125958)
 
 **임현호**
