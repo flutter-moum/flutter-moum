@@ -68,11 +68,11 @@ Merged: <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4
 - [Update Xcode screenshot](https://github.com/flutter/website/pull/4410) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Fix book list in alphabetical order](https://github.com/flutter/website/pull/4414) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [Fix broken link in firebase.md](https://github.com/flutter/website/pull/4514) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
-- [Update Japanese localization of CupertinoDatePicker](https://github.com/flutter/flutter/pull/65645) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [Update Japanese localization of CupertinoDatePicker](https://github.com/flutter/flutter/pull/65645) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
 
 **이찬호**
 - [Table adds rowSpacing property](https://github.com/flutter/flutter/pull/63322) <img src="https://user-images.githubusercontent.com/4879766/88250811-a5d40700-cce3-11ea-8305-afa9ca85b43b.png" width="60" alt="Closed"/>
-- [[ReorderableListView] Fix item dropping animation](https://github.com/flutter/flutter/pull/64140) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
+- [[ReorderableListView] Fix item dropping animation](https://github.com/flutter/flutter/pull/64140) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [[SwitchListTile.adaptive] Remove splash effect on iOS and macOS](https://github.com/flutter/flutter/pull/65081) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
 - [[ReorderableListView] remove extra margin added after picking up the item](https://github.com/flutter/flutter/pull/65080) <img src="https://user-images.githubusercontent.com/4879766/88250791-9c4a9f00-cce3-11ea-8f47-2e544257df8a.png" width="60" alt="Merged"/>
 - [[Tabs] Fix tab indicator flies off issue](https://github.com/flutter/flutter/pull/65463) <img src="https://user-images.githubusercontent.com/4879766/88250817-ac627e80-cce3-11ea-9daa-d5073ee6108d.png" width="60" alt="Open"/>
